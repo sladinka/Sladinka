@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&color=F4ACB7&center=true&vCenter=true&width=800&lines=Catveloper+on+python." alt="Typing Effect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=50&pause=1000&color=F4ACB7&center=true&vCenter=true&width=800&height=150&lines=Catveloper+on+python.;I+love+cats!" alt="Typing Effect" />
 </p>
 
 <picture>
