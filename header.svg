@@ -14,7 +14,7 @@
         font-family: 'Courier New', Courier, monospace;
         font-size: 38px;
         font-weight: bold;
-        fill: #F4ACB7; /* Насыщенный пастельно-персиковый */
+        fill: #F4ACB7;
         letter-spacing: 2px;
       }
     </style>
