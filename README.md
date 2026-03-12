@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sladinka/Sladinka/main/header.svg" alt="Animated Header" width="100%">
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sladinka/Sladinka/output/pacman-contribution-graph-dark.svg">
