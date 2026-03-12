@@ -33,8 +33,4 @@
     <path class="wave1" fill="#F4ACB7" opacity="0.9" d="M 0 80 Q 200 120 400 80 T 800 80 T 1200 80 T 1600 80 L 1600 0 L 0 0 Z"/>
   </g>
 
-  <text x="400" y="200" text-anchor="middle" class="text-style" filter="url(#glow)">
-    Catveloper on python
-    <animate attributeName="opacity" values="0; 1; 1; 0; 0" keyTimes="0; 0.25; 0.75; 0.95; 1" dur="5s" repeatCount="indefinite" />
-  </text>
 </svg>
